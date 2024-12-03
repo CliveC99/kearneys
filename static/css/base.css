@@ -52,8 +52,13 @@ body {
     color: #000 !important;
 }
 
+/* MOVE */
 .green-colour {
     color: #025715;
+}
+
+.bg-black {
+    background: #025715 !important;
 }
 
 .border-black {
