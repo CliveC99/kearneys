@@ -53,14 +53,17 @@ a:link, a:visited, a:hover, a:active { color: white; text-decoration: none; }
     color: white;
 }
 
-.btn-black {
-    background: black;
+.btn-green {
+    background: #025715;
     color: white;
 }
 
 .shop-now-button:hover,
 .shop-now-button:active,
 .shop-now-button:focus,
+.btn-green:hover,
+.btn-green:active,
+.btn-green:focus,
 .btn-black:hover,
 .btn-black:active,
 .btn-black:focus{
