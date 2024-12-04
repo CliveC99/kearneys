@@ -30,9 +30,9 @@
             </a>
             <div class="dropdown-menu border-0" aria-labelledby="homeware-link">
                 <a href="" class="dropdown-item">AfterShave</a>
-                <a href="" class="dropdown-item">Perfumes</a>
+                <a href="{% url 'products' %}?category=perfumes" class="dropdown-item">Perfumes</a>
                 <a href="" class="dropdown-item">Gift Sets</a>
-                <a href="" class="dropdown-item">All Cosmetics and Fragrances</a>
+                <a href="{% url 'products' %}?category=aftershave,perfumes,gift_set" class="dropdown-item">All Cosmetics and Fragrances</a>
             </div>
         </li>
 
