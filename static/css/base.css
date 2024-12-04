@@ -28,9 +28,29 @@ body {
 }
 
 .shop-now-button {
-    background: #057d1b;
+    background: #025715;
     color: white;
     min-width: 260px;
+}
+
+.dropdown-menu {
+    background-color: #025715;
+}
+
+.dropdown-background:hover {
+    background: black;
+}
+
+.btn-category {
+    background: #025715;
+    color: white;
+}
+
+a:link, a:visited, a:hover, a:active { color: white; text-decoration: none; }
+
+.btn-category:hover {
+    background-color: black;
+    color: white;
 }
 
 .btn-black {
@@ -43,7 +63,7 @@ body {
 .shop-now-button:focus,
 .btn-black:hover,
 .btn-black:active,
-.btn-black:focus {
+.btn-black:focus{
     background: #000000;
     color: white;
 }
