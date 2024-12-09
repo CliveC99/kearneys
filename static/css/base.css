@@ -33,6 +33,14 @@ body {
     min-width: 260px;
 }
 
+.info-section {
+    background: #025715;
+    color: white;
+    max-width: 250px;
+    font-size: 0.9em;
+    text-align: center;
+}
+
 .dropdown-menu {
     background-color: #025715;
 }
