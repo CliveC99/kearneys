@@ -19,13 +19,13 @@ class OrderForm(forms.ModelForm):
         placeholders = {
             'full_name': 'Full Name',
             'email': 'Email Address',
-            'phone_number': 'Phone Number',
-            'country': 'Country',
-            'postcode': 'Eircode',
-            'town_or_city': 'Town or City',
             'street_address1': 'Street Address 1',
             'street_address2': 'Street Address 2',
+            'town_or_city': 'Town or City',
             'county': 'County',
+            'country': 'Country',
+            'postcode': 'Eircode',
+            'phone_number': 'Phone Number',
             'comments': 'Comments',
         }
 
