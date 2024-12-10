@@ -33,6 +33,11 @@ body {
     min-width: 260px;
 }
 
+.test {
+    color: green;
+    text-decoration: underline;
+}
+
 .info-section {
     background: #025715;
     color: white;
