@@ -35,3 +35,10 @@
     color: #025715;
     border: 2.5px solid #025715;
 }
+
+.order-form-text {
+  text-decoration: underline;
+  color: #025715;
+  font-weight: bolder;
+  font-size: 1.1em;
+}
