@@ -76,7 +76,6 @@ body {
 }
 
 
-
 .btn-category:hover {
     background-color: black;
     color: white;
@@ -247,6 +246,14 @@ a.category-badge > span.badge:hover {
     color: #aab7c4;
 }
 
+#signup_form .form-control {
+    color: #025715;
+}
+
+#login_form .form-control {
+    color: #025715;
+}
+
 
 /* Product Form */
 .btn-file {
@@ -275,6 +282,12 @@ a.category-badge > span.badge:hover {
     border-color: #dc3545;
     border-radius: 0;
 }
+
+#add-product-form .form-control {
+    color: #025715;
+}
+
+
 
 /* fixed top navbar only on medium and up */
 @media (min-width: 992px) {
