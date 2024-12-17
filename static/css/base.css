@@ -60,9 +60,12 @@ body {
 }
 
 
-
-
 .my-account-dropdown {
+    color: white;
+    font-weight: bold;
+}
+
+.dropdown-item {
     color: white;
     font-weight: bold;
 }
@@ -252,15 +255,16 @@ a.category-badge > span.badge:hover {
     }
 
     .header-container {
-        padding-top: 164px;
+        padding-top: 210px;
     }
 }
 
 /* pad the top a bit when navbar is collapsed on mobile */
 @media (max-width: 991px) {
     .header-container {
-        padding-top: 116px;
+        padding-top: 155px;
     }
+    
 
     body {
         height: calc(100vh - 116px);
