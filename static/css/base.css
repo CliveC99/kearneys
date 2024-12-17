@@ -101,7 +101,7 @@ body {
 
 /* MOVE */
 .green-colour {
-    color: #025715;
+    color: #025715 !important;
 }
 
 .bg-black {
