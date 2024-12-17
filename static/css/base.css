@@ -59,7 +59,12 @@ body {
     color: white;
 }
 
-a:link, a:visited, a:hover, a:active { color: white; text-decoration: none; }
+.my-account-dropdown {
+    color: white;
+    font-weight: bold;
+}
+
+
 
 .btn-category:hover {
     background-color: black;
