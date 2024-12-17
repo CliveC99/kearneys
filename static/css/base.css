@@ -10,6 +10,11 @@ body {
     font-family: 'Lato';
 }
 
+.home-logo {
+    max-width: 18em;
+    height: auto;
+}
+
 /* from Bulma */
 .icon {
     align-items: center;
