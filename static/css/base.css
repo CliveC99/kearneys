@@ -315,3 +315,12 @@ a.category-badge > span.badge:hover {
         height: calc(100vh - 116px);
     }
 }
+
+/*  Padding for navbar on smaller devices */
+
+@media (max-width: 407px) {
+    .navbar {
+        padding-right: 10px;
+    }
+}
+
