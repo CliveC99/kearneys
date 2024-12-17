@@ -60,9 +60,14 @@ body {
 }
 
 
-.my-account-dropdown {
+.my-account-dropdown, .products-home-text {
     color: white;
     font-weight: bold;
+}
+
+.products-home-text:hover {
+    text-decoration: none;
+    color: white;
 }
 
 .dropdown-item {
@@ -258,6 +263,7 @@ a.category-badge > span.badge:hover {
     opacity: 0;
     cursor: pointer;
 }
+
 
 .custom-checkbox .custom-control-label::before {
     border-radius: 0;
