@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-_bc*&=%ir4u%=6(m71ux(n@tlj$^0dfn8bacql#9*%zmp#$z%4
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://localhost:8000', 'localhost', 'https://cautious-waffle-66r5pp6x99wcqwr-8000.app.github.dev/']
+ALLOWED_HOSTS = ['https://localhost:8000', 'localhost', '8000-clivec99-kearneys-4wzjdaoy4f5.ws-eu117.gitpod.io', 'http://kearneyschemist.com.www588.your-server.de/']
 
 
 # Application definition
